@@ -1,0 +1,25 @@
+objective
+
+To perform
+
+1. Take the data with the help of OPENCV
+
+2.Use Tensorflow and Keras for building the model
+
+3.Save the weight file 
+
+4. Plot the loss and accuracy graphs
+
+5. Load the weight test on new data or unknown data
+
+Hey this is best project to know about the data science computer vision tech build a model using CNN and Test them
+
+
+
+1. You are going to have dataset with effected and not effected images
+
+2 Data [Folder]
+
+1. Effected
+
+2. Not effected
