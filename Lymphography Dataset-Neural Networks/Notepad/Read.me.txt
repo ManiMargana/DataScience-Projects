@@ -1,0 +1,14 @@
+Objective to performing on dataset is-
+
+1. Perform EDA
+
+2. Apply imblearn SMOTH algorithm to balance the classes
+
+3. Creating the algorithm Use tensorflow keras to create the neural network
+
+4. Tune the Model using GridSearchCV
+
+5. Plot accuracy a loss graphs
+
+6. Test the model
+

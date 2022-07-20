@@ -1,0 +1,17 @@
+To perform
+
+1. Load the data clean it and convert into the vectors
+
+2. Train the classification model
+
+3. Test the model on new data
+
+ create the model and test it
+
+
+This dataset contains the sentiments for financial news headlines from the perspective of a retail investor,
+
+we are as a data scientist we need to help this company to create sentimental machine learning model. 
+
+It will take text as an input and return output as "Negative or positive or Neutral"
+

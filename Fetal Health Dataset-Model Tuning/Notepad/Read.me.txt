@@ -1,0 +1,14 @@
+Objective to perform
+
+Note: before going into the project do some research on Tuning the models
+
+1. Grid Search CV
+
+2. Randomized CV
+
+3. Kfold cross validation
+
+
+Target
+
+'fetal health' Tagged as 1 (Normal), 2 (Suspect) and 3 (Pathological)

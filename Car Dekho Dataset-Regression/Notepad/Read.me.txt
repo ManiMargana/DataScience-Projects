@@ -1,0 +1,24 @@
+Objective
+
+
+To Perform
+
+1. We can perform EDA
+
+2. We can do statistical analysis?
+
+3. We can build the inodel
+
+4. We can test on new data
+
+car dekho data set help them with data analysis and model building
+
+About CarDehko
+
+Car denso is a Indian second hand car selling company now it was looking for data scientist who can build a regression model and help them
+
+fnd the car price accurately
+
+Note They need all the analysis of the data
+
+

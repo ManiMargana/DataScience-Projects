@@ -1,0 +1,66 @@
+Objective  to Perform:
+
+->
+
+Data cleaning and imputation
+
+Load and Check Data
+
+We have an idea of the data we are working with. So far we have 12 variables and 1309 observations, 891 observations from the train set and 418
+
+observations from the test set.
+
+Below is a description of the variables.
+
+Survived - Survived (1) or died (0). Pclass - Passenger's class. Name - Passenger's name. Sex - Passenger's sex. Age - Passenger's age. SibSp Number of siblings/spouses aboard. Parch-Number of parents/children aboard. Ticket - Ticket number. Fare-Fare. Cabin - Cabin, Embarked
+
+Port of embarkation.
+
+
+->
+
+Check the Missing values of Columns
+
+• Surviving rate
+
+•Pclass
+
+• Name
+
+Sex
+
+• Age
+
+• SibSp, Parch
+
+• Ticket
+
+• Fare
+
+• Cabin
+
+• Embarked
+
+->
+Perform Feature Engineering
+
+• Imputation on Embarked and Age columns
+
+• Title extraction
+
+• Ticket first letters
+
+• Cabin first letters
+
+Encoding sex column
+
+Family size
+
+• One Hot Encoding for all categorical variables
+
+
+->
+
+Data Visulization
+
+
