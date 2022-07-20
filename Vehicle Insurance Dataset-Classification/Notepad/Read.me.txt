@@ -1,0 +1,15 @@
+Objective to Perform
+
+1. Perform EDA on Data?
+
+2. Do depth descriptive statistics on data!
+
+3. Build a any classification Model on data!
+
+4. Test the model
+
+
+
+Now, in order to predict, whether the customer would be interested in Vehicle insurance, 
+you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
+
